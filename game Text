@@ -1,0 +1,148 @@
+Information about the room: 
+
+Description room: 
+In the middle of the room is the exit, but you need the key to open the exit! 
+
+Passageway's: 
+There is an passageway east of the room 
+go east
+Information about the room: 
+
+Description room: 
+There is blood comming form the northern room... 
+
+Passageway's: 
+There is an passageway east of the room 
+There is an passageway north of the room 
+There is an passageway west of the room 
+go north
+Information about the room: 
+
+Description room: 
+The blood stops in the middle of the room, you see an dead man lying down with an sword in his back. 
+
+Items: 
+There is an: 'sword' in the room 
+
+Passageway's: 
+There is an passageway south of the room 
+There is an passageway north of the room 
+get sword
+You took the sword
+go north
+Information about the room: 
+
+Description room: 
+Nothing special in this room.. 
+
+Passageway's: 
+There is an passageway east of the room 
+There is an passageway south of the room 
+There is an passageway north of the room 
+There is an passageway west of the room 
+go north
+Information about the room: 
+
+Description room: 
+Nothing special in this room.. 
+
+Passageway's: 
+There is an passageway east of the room 
+There is an passageway south of the room 
+There is an passageway west of the room 
+go east
+Information about the room: 
+
+Description room: 
+At the end of the room you found the key! Now get it! 
+
+Items: 
+There is an: 'oracle' in the room 
+There is an: 'key' in the room 
+
+Passageway's: 
+There is an passageway west of the room 
+get key
+You took the key
+look
+Information about the room: 
+
+Description room: 
+At the end of the room you found the key! Now get it! 
+
+Items: 
+There is an: 'oracle' in the room 
+
+Passageway's: 
+There is an passageway west of the room 
+drop sword
+You dropped the sword
+look
+Information about the room: 
+
+Description room: 
+At the end of the room you found the key! Now get it! 
+
+Items: 
+There is an: 'oracle' in the room 
+There is an: 'sword' in the room 
+
+Passageway's: 
+There is an passageway west of the room 
+pack
+
+The backpack contains: 
+There is an: 'key' in the backpack 
+The key has the has the ability: Can open the exit
+
+go west
+Information about the room: 
+
+Description room: 
+Nothing special in this room.. 
+
+Passageway's: 
+There is an passageway east of the room 
+There is an passageway south of the room 
+There is an passageway west of the room 
+go south
+Information about the room: 
+
+Description room: 
+Nothing special in this room.. 
+
+Passageway's: 
+There is an passageway east of the room 
+There is an passageway south of the room 
+There is an passageway north of the room 
+There is an passageway west of the room 
+go south
+Information about the room: 
+
+Description room: 
+The blood stops in the middle of the room, you see an dead man lying down with an sword in his back. 
+
+Passageway's: 
+There is an passageway south of the room 
+There is an passageway north of the room 
+go south
+Information about the room: 
+
+Description room: 
+There is blood comming form the northern room... 
+
+Passageway's: 
+There is an passageway east of the room 
+There is an passageway north of the room 
+There is an passageway west of the room 
+go west
+Information about the room: 
+
+Description room: 
+In the middle of the room is the exit, but you need the key to open the exit! 
+
+Passageway's: 
+There is an passageway east of the room 
+
+Oh wait! You have the key with you. 
+You left the dungeon! Thank you for playing! 
